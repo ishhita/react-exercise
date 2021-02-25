@@ -1,0 +1,9 @@
+
+.switch-tab>ul{
+    width:200px;
+}
+
+.switch-tab ul *{
+    display: inline;
+    padding:2%;
+}

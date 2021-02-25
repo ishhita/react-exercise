@@ -1,0 +1,13 @@
+
+.design-tool{
+    margin:1%;
+}
+
+
+.text-decoration{
+    font-size: 20px;
+    font-weight: bold; 
+    cursor: pointer;
+    padding:0.5%;
+    margin-left:0.5%
+}

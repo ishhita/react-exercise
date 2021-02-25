@@ -1,0 +1,10 @@
+.toast{
+    margin:1%;
+}
+.toastBox{
+    width: 250px;
+    /* margin-left: 35%; */
+    padding: 2%;
+    text-align: center;
+    border: 5px inset black;
+}

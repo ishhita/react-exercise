@@ -4,7 +4,12 @@ import "./footer.css";
 const Footer = () => {
   return (
     <div class="footer">
-      <p></p>
+      <p>
+        <Link
+          link="https://github.com/Madhusudan707/react-exercise"
+          text="GitHub"
+        />
+      </p>
     </div>
   );
 };
